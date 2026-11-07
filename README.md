@@ -45,7 +45,7 @@ I enjoy solving problems, learning new technologies, and turning ideas into work
 
 ## 🚀 Featured Projects
 
-*Selected projects will be added here as they are completed.*
+- [java-oop-practice](https://github.com/Mashuk009/java-oop-practice): Java OOP practice: inheritance, polymorphism, interfaces, immutability, multithreading, iterator (Gradle multi-module)
 
 <!-- 
 Example project:
